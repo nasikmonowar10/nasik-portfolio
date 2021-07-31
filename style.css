@@ -109,6 +109,8 @@ h3{
 #end{
     background-color: black;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
     }
 #f-color{
     color:grey;
